@@ -10,8 +10,13 @@
     "@types/node": "^12.12.51",
     "@types/react": "^16.9.43",
     "@types/react-dom": "^16.9.8",
+    "@wellyshen/use-web-animations": "^0.5.1",
+    "bootstrap": "^4.5.0",
+    "history": "^5.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-fontawesome": "^1.7.1",
+    "react-router-dom": "^6.0.0-beta.0",
     "react-scripts": "3.4.1",
     "typescript": "^3.7.5"
   },
