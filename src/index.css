@@ -26,6 +26,16 @@ body {
   }
 }
 
+@media screen and (max-width: 900px) {
+  .card .btn{
+    width: 100% !important;
+  }
+}
+
+
+#About {
+  margin-top :100px !important
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

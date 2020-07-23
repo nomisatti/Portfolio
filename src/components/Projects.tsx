@@ -35,9 +35,9 @@ function Projects() {
                         <img className="card-img-top" src={data.imgsrc} alt={data.title} />
                         <div className="card-body">
                           <h5 className="card-title">{data.title}</h5>
+                          
                           <a href={data.projectlink} className="btn btn-danger">Visit Website</a>
                           <a href={data.gitlink} className="btn btn-success float-right">View GitHub Repos</a>
-
                         </div>
                       </div>
                     </div>
